@@ -5,7 +5,7 @@ var button;
 var amp;
 var soundHistory = [];
 function preload() {
-  song = loadSound("Avicii_-_Sunset_Jesus__Lyric_Video_.mp3");
+  song = loadSound("alors on dance.mp3");
   
 }
 
